@@ -22,7 +22,8 @@ git clone https://github.com/Prismryu/readme-generator.git
 
 Navigate into the directory:
 
-cd Develop
+cd ReadMe-Generator
+
 
 Install dependencies:
 
