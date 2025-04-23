@@ -7,17 +7,12 @@ Description
 A command-line application that dynamically generates a high-quality README file based on user input. This tool helps developers quickly create professional README files, saving time and ensuring consistency across projects.
 Table of Contents
 
-    Installation
-
-    Usage
-
-    License
-
-    Contributing
-
-    Tests
-
-    Questions
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 Installation
 
@@ -42,6 +37,9 @@ node index.js
 You will be prompted to enter information such as your project title, description, installation steps, usage instructions, contribution guidelines, test instructions, license, GitHub username, and email. Once completed, a README.md file will be generated in the root of your project directory.
 
 🎥 Walkthrough Video Link
+
+https://youtu.be/uQLlmCPLb7w
+
 License
 
 This project is licensed under the MIT license.
