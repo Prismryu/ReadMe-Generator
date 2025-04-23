@@ -1,12 +1,11 @@
-# Sample Readme
+# ReadMe-Generator
+PROFESSIONAL README GENERATOR
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+License
+Description
 
-## Description
-
-A sample readme made for demo
-
-## Table of Contents
+A command-line application that dynamically generates a high-quality README file based on user input. This tool helps developers quickly create professional README files, saving time and ensuring consistency across projects.
+Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,29 +14,60 @@ A sample readme made for demo
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation
+Installation
 
-No Install Necessary, Demo Video available in the link provided
+    Clone the repository:
 
-## Usage
+git clone https://github.com/Prismryu/readme-generator.git
 
-There are no Dependancies to install
+Navigate into the directory:
 
-## License
+cd Develop
 
-This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
+Install dependencies:
 
-## Contributing
+    npm install
 
-Please contact before trying to make any contributions
+Usage
 
-## Tests
+Run the following command in your terminal:
 
-No test necessary
+node index.js
 
-## Questions
+You will be prompted to enter information such as your project title, description, installation steps, usage instructions, contribution guidelines, test instructions, license, GitHub username, and email. Once completed, a README.md file will be generated in the root of your project directory.
 
-If you have any questions, feel free to reach out:
+🎥 Walkthrough Video Link
+
+https://youtu.be/uQLlmCPLb7w
+
+License
+
+This project is licensed under the MIT license.
+For more information, see the MIT license.
+Contributing
+
+To contribute to this project:
+
+    Fork the repository
+
+    Create a new branch: git checkout -b feature/your-feature-name
+
+    Commit your changes: git commit -m "Add new feature"
+
+    Push to the branch: git push origin feature/your-feature-name
+
+    Submit a pull request
+
+Tests
+
+To test the application, run it using the command below and answer the prompts:
+
+node index.js
+
+Verify that the README.md file generated matches your inputs and includes a functional Table of Contents with anchor links.
+Questions
+
+If you have any questions or need further support, feel free to reach out:
 
 - GitHub: [Prismryu](https://github.com/Prismryu)
 - Email: Guyrunby@gmail.com
